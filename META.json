@@ -1,0 +1,60 @@
+{
+  "category": "network-analysis",
+  "created_date": "2025-09-15T22:48:59.256994",
+  "default_ports": [
+    80,
+    443
+  ],
+  "dependencies": [],
+  "description": "tcpdump is a free and open-source packet capture. tcpdump provides command-line packet analyzer",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/network-analysis/tcpdump",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/network-analysis/tcpdump",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:59.257017",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "tcpdump",
+  "repository_url": "https://github.com/howtomgr/tcpdump",
+  "spec_version": "2.0",
+  "subcategory": "network-analysis",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "network-analysis",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "tcpdump Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/network-analysis/tcpdump"
+}
